@@ -1,2 +1,3 @@
-print("HELLO WORD")
-print("WELCOME")
+print("hola mundo")
+print("bienvenidos")
+
